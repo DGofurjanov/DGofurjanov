@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @DGofurjanov
+- 👀 I’m hardly interested in Flutter now. but I don't know if I could handle it;)
+- 🌱 I’m currently learning how to resolve a bunch of unexpected errors and fight against them violently:)
+- 💞️ I’m looking to collaborate on my nonsense project as it is called "How to run an emulator without Android Studio"
+- 📫 How to reach me is quite straightforward, but I recommend not to do so.
+- 😄 Pronouns: Me and Mine
+- ⚡ Fun fact: Why is Flutter taught mostly by Indian developers?))))
